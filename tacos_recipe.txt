@@ -1,2 +1,7 @@
 Recipe name: Nono Tacos
 Cook time: 10 minutes
+Ingridient: 
+- taco shells
+- beef
+- jalapenos
+- 
